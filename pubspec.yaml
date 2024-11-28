@@ -1,0 +1,28 @@
+name: cool_packages_collections
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  animated_text_kit: ^4.2.2
+  confetti: ^0.8.0
+  fancy_snackbar: ^0.0.1
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.5.2
+  fluttertoast: ^8.2.8
+  glassmorphism: ^3.0.0
+  liquid_swipe: ^3.1.0
+  shimmer: ^3.0.0
+  get:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
